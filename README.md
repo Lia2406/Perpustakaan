@@ -1,5 +1,7 @@
 A. Analysis
 ![WhatsApp Image 2025-06-21 at 03 53 57_179ecaec](https://github.com/user-attachments/assets/31020ca5-4067-4677-8e82-5ef6d41f7edd)
+![WhatsApp Image 2025-06-21 at 04 00 23_d40aa3b1](https://github.com/user-attachments/assets/2f3a9906-753b-451d-b23d-a63f11f26ae5)
+
 
 B.Program Testing
 ![Screenshot 2025-06-21 032305](https://github.com/user-attachments/assets/332c2103-98a5-4b9a-98c3-8461ea8b11de)
